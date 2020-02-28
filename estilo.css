@@ -1,3 +1,7 @@
 h2{
   color: red;
 }
+ photo {
+	float: right;
+	margin-right: 20%;
+}
