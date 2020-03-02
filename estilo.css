@@ -1,7 +1,8 @@
+<style type="text/css">
 h2{
   color: gren;
   text-align: center;
-  border-top: 4px solid #7c7; /* mid green */
+  border-top: 4px double #7c7; /* mid green */
   background-color: #efe;     /* pale green */
   color: #050;                /* dark green */
 	
@@ -11,11 +12,4 @@ h2{
 	margin-right: 20%;
 	text-align: center;
 }
-
-dl{
-	text-align: center;
-}
-
-ul{
-	text-align: center;	
-}
+</style>
