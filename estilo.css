@@ -1,7 +1,12 @@
 h2{
   color: red;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
  photo {
 	float: right;
 	margin-right: 20%;
+	text-align: center;
 }
