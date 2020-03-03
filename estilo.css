@@ -1,14 +1,22 @@
+h1{
+  color: blue;
+  text-align: center;
 
+}
 h2{
   color: blue;
   text-align: center;
-  border-top: 4px double #7c7; /* mid red */
-  background-color: #efe;     /* pale red */
-  color: blue;                /* dark red */
+  border-top: 4px double aqua; 
+  background-color: #efe;     
+  color: aqua;                
 	
 }
- photo {
-	position: absolute;
-	 rigth: 20 px;
+body{
+  background-color: burlywood;
 }
+ img {
+	position: absolute;
+	right: 18px;
+}
+
 
