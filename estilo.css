@@ -10,7 +10,7 @@ h2{
   color: blue;
   text-align: center;
   border-top: 4px double blue; 
-  background-color: antiquewhite;     
+  background-color: gray;     
   color: blue;                
 	
 }
@@ -20,7 +20,5 @@ body{
  img {
 	position: absolute;
   right: 18px;
-  border: double black 10px;
+  border: double blue 10px;
 }
-
-
