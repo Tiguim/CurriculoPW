@@ -1,22 +1,26 @@
 h1{
   color: blue;
   text-align: center;
+  font-size: 5em;
+  background: grey;
 
 }
 h2{
+  font-size: 2em;
   color: blue;
   text-align: center;
-  border-top: 4px double aqua; 
-  background-color: #efe;     
-  color: aqua;                
+  border-top: 4px double blue; 
+  background-color: antiquewhite;     
+  color: blue;                
 	
 }
 body{
-  background-color: burlywood;
+  background-color: whitesmoke;
 }
  img {
 	position: absolute;
-	right: 18px;
+  right: 18px;
+  border: double black 10px;
 }
 
 
